@@ -1,0 +1,8 @@
+{
+  "lengthUnit": "Meter",
+  "maxVelocity": 6.0,
+  "maxAcceleration": 2.0,
+  "wheelBase": 0.6,
+  "gameName": "FIRST Power Up",
+  "outputDir": "../paths"
+}
